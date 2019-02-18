@@ -1,4 +1,4 @@
-# IPython Notebooks for the course Algorithms and Datastructures
+# Jupyter Notebooks for the course Algorithms and Datastructures
 
-This repository contains IPython Notebooks for the course [Algorithm and Datastructures](http://informatik.unibas.ch/fs2018/vorlesung-algorithmen-und-datenstrukturen), 
-taught in Sprint 2018 at the [University of Basel](https://unibas.ch).
+This repository contains Jupyter Notebooks for the course [Algorithm and Datastructures]https://dmi.unibas.ch/de/studium/computer-science-informatik/lehrangebot-fs19/vorlesung-algorithmen-und-datenstrukturen/), 
+taught in Spring 2019 at the [University of Basel](https://unibas.ch).
