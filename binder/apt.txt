@@ -1,3 +1,4 @@
 graphviz
 ffmpeg
-pygraphviz
+python-pygraphviz
+python3-pygraphviz
