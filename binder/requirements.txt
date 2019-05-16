@@ -1,2 +1,5 @@
 matplotlib==3.*
 graphviz==0.10.*
+networkx==2.3.*
+pygraphviz==1.5
+pqdict==1.0

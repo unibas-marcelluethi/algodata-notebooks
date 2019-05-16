@@ -1,1 +1,5 @@
 graphviz
+ffmpeg
+python-pygraphviz
+python3-pygraphviz
+libgraphviz-dev
